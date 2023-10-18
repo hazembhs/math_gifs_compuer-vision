@@ -1,4 +1,4 @@
-# math_gits_compuer-vision
+# math_gifs_compuer-vision
 because math is beautiful 
 
 [toroid revolver](/toroid_revolver)
